@@ -1,1 +1,16 @@
 
+.Pockemon{
+    display: flex;
+    margin-top: 20px;
+    width: 300px;
+    border-width:4px;
+    border-style:inset;
+    border-color:blue;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
